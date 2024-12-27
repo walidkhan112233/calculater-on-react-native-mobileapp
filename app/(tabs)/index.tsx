@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
   subtitle: {
     color: 'white',
     fontSize: 18,
-    textAlign: 'center',
+    textAlign: 'center',                        
     marginBottom: 30,
   },
   button: {
